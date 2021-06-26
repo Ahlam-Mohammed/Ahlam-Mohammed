@@ -6,12 +6,11 @@
 
 
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">   IT student at the University of Science and Technology.  
+- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">    Graduated from University of Science and Technology in Yemen in 2021 with a Bachelor's degree in Information Technology..  
   
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">   The languages that I'm good at are C++,Java,PHP,HTML and CSS(Bootstrab).
+- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">   The languages that I'm good at are C++,Java,PHP,HTML,CSS,Bootstrab and Laravel.
 
-- <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="17">   Currently learning Flutter, Laravel.
    
 <br/>  
 
