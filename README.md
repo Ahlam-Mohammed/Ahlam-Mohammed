@@ -1,19 +1,17 @@
-<h2> Ahlam Mohammed Al-Fashq. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
-   <img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230">
+<h2> Ahlam Mohammed Al-Fashq. <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="50"></h2> 
+   <img align='right' src="https://media.giphy.com/media/IEC2iaGn6ZveE3E8gC/giphy.gif" width="230">
  <h3 align="left"> Full stack web developer <img src="https://media.giphy.com/media/irv7qwknRUyWYqtMJL/giphy.gif" width="30">  </h3>  
     
 
 
--  💜 I always strive to achieve the best results .
+- 💜 I always strive to achieve the best results .
 
 
-
-- <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="17">  👩🏻‍🎓 Graduated from University of Science and Technology in Yemen in 2021 with a Bachelor's degree in Information Technology..  
+- 👩🏻‍🎓 Graduated from University of Science and Technology in Yemen in 2021 with a Bachelor's degree in Information Technology..  
   
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">  💻 I'm still improving my technical skills.
- .
-
+- 💻 I'm still improving my technical skills.
+ 
 
 - 🤝 I’m looking to collaborate on any project, just drop a DM.
 
