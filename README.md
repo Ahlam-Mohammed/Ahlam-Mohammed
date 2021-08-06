@@ -4,17 +4,18 @@
     
 
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">   I always strive to achieve the best results .
+-  💜 I always strive to achieve the best results .
 
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">    Graduated from University of Science and Technology in Yemen in 2021 with a Bachelor's degree in Information Technology..  
+
+- <img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="17">  👩🏻‍🎓 Graduated from University of Science and Technology in Yemen in 2021 with a Bachelor's degree in Information Technology..  
   
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">   💻 I'm still improving my technical skills.
+- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">  💻 I'm still improving my technical skills.
  .
 
 
-- <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="17">   🤝 I’m looking to collaborate on any project, just drop a DM.
+- 🤝 I’m looking to collaborate on any project, just drop a DM.
 
 
    
