@@ -1,4 +1,4 @@
-<h2>  Hello world, I'm Ahlam Mohammed Al-Fashq. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2> Ahlam Mohammed Al-Fashq. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
    <img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230">
  <h3 align="left">I'm an ambitious programmer <img src="https://media.giphy.com/media/irv7qwknRUyWYqtMJL/giphy.gif" width="30">  </h3>  
     
