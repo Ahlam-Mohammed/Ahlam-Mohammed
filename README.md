@@ -1,6 +1,6 @@
 <h2> Ahlam Mohammed Al-Fashq. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" width="50"></h2> 
    <img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230">
- <h3 align="left"> Full stack web developer <img src="https://media.giphy.com/media/irv7qwknRUyWYqtMJL/giphy.gif" width="30">  </h3>  
+ <h3 align="left"> Designer and developer of web applications <img src="https://media.giphy.com/media/irv7qwknRUyWYqtMJL/giphy.gif" width="30">  </h3>  
     
 
 
@@ -21,8 +21,7 @@
 
 # 😊 Contact me..... 
 <div align="center">
-<a href="https://github.com/Ahlam-Mohammed"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://www.linkedin.com/in/ahlam-mohammed-8b5918209/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/ahlammo7md/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://ahlam.m.alfashq@gmail.com" ><img alt=Gmail  width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a> 
 </div>  
   
@@ -30,7 +29,7 @@
 <br/>  
 
 
-# 💜 Programming Languages and Tool
+<!-- # 💜 Programming Languages and Tool
 <div align="center">  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
@@ -43,4 +42,4 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 </div>
-<br />
+<br /> -->
